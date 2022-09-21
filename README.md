@@ -1,2 +1,2 @@
-# learn-web3-kris
+# eth-benkyo
 Test repo to learn about Web3
